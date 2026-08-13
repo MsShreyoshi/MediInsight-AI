@@ -1,11 +1,11 @@
 /* ==========================================================
-   MEDIINSIGHT AI
-   LOGIN PAGE — GLOBAL FOUNDATION
+   MEDIINSIGHT AI — LOGIN PAGE
+   PHASE 3: LEFT PANEL STYLING
 ========================================================== */
 
 
 /* ==========================================================
-   ROOT
+   GLOBAL RESET
 ========================================================== */
 
 html,
@@ -16,7 +16,9 @@ body {
     width: 100% !important;
     height: 100% !important;
 
-    overflow: hidden !important;
+    font-family: Arial, sans-serif !important;
+
+    background: #ffffff !important;
 }
 
 
@@ -26,98 +28,37 @@ body {
 
 [data-testid="stApp"] {
     width: 100vw !important;
-    height: 100vh !important;
+    min-height: 100vh !important;
 
-    margin: 0 !important;
-    padding: 0 !important;
-
-    overflow: hidden !important;
+    background: #ffffff !important;
 }
 
 
 /* ==========================================================
-   STREAMLIT APP VIEW
+   STREAMLIT MAIN CONTAINER
 ========================================================== */
 
 [data-testid="stAppViewContainer"] {
-    width: 100vw !important;
-    height: 100vh !important;
-
-    margin: 0 !important;
-    padding: 0 !important;
-
-    overflow: hidden !important;
+    background: #ffffff !important;
 }
 
 
 /* ==========================================================
-   MAIN CONTENT
-========================================================== */
-
-[data-testid="stAppViewContainer"] > section {
-    width: 100% !important;
-    height: 100% !important;
-
-    margin: 0 !important;
-    padding: 0 !important;
-
-    overflow: hidden !important;
-}
-
-
-/* ==========================================================
-   BLOCK CONTAINER
+   REMOVE DEFAULT STREAMLIT PADDING
 ========================================================== */
 
 .block-container {
-    width: 100% !important;
     max-width: none !important;
 
-    height: 100vh !important;
-
-    margin: 0 !important;
-    padding: 0 !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
 }
 
 
 /* ==========================================================
-   MAIN SECTION
-========================================================== */
-
-section.main {
-    width: 100% !important;
-    height: 100vh !important;
-
-    margin: 0 !important;
-    padding: 0 !important;
-}
-
-
-/* ==========================================================
-   MAIN INNER WRAPPER
-========================================================== */
-
-section.main > div {
-    width: 100% !important;
-    height: 100% !important;
-
-    margin: 0 !important;
-    padding: 0 !important;
-}
-
-
-/* ==========================================================
-   STREAMLIT VERTICAL BLOCK
-========================================================== */
-
-div[data-testid="stVerticalBlock"] {
-    margin: 0 !important;
-    padding: 0 !important;
-}
-
-
-/* ==========================================================
-   HIDE STREAMLIT UI
+   REMOVE STREAMLIT UI
 ========================================================== */
 
 #MainMenu {
@@ -134,37 +75,198 @@ footer {
 
 
 /* ==========================================================
-   REMOVE TOP DECORATION
+   COLUMN CONTAINER
 ========================================================== */
 
-[data-testid="stDecoration"] {
-    display: none !important;
+div[data-testid="stHorizontalBlock"] {
+
+    gap: 0 !important;
+
+    align-items: stretch !important;
+
+    width: 100% !important;
 }
 
 
 /* ==========================================================
-   REMOVE EMPTY STREAMLIT SPACING
+   LEFT COLUMN
 ========================================================== */
 
-div[data-testid="stVerticalBlockBorderWrapper"] {
+div[data-testid="stHorizontalBlock"]
+> div:first-child {
+
+    padding: 0 !important;
+
     margin: 0 !important;
+}
+
+
+/* ==========================================================
+   LEFT BACKGROUND IMAGE
+========================================================== */
+
+div[data-testid="stHorizontalBlock"]
+> div:first-child
+div[data-testid="stImage"] {
+
+    width: 100% !important;
+
+    margin: 0 !important;
+
     padding: 0 !important;
 }
 
 
 /* ==========================================================
-   BODY BACKGROUND
+   LEFT IMAGE ITSELF
 ========================================================== */
 
-body {
-    background: #ffffff !important;
+div[data-testid="stHorizontalBlock"]
+> div:first-child
+div[data-testid="stImage"] img {
+
+    width: 100% !important;
+
+    height: 100vh !important;
+
+    object-fit: cover !important;
+
+    object-position: center !important;
+
+    border-radius: 0 30px 30px 0 !important;
 }
 
 
 /* ==========================================================
-   STREAMLIT APP BACKGROUND
+   LEFT COLUMN CONTENT
 ========================================================== */
 
-[data-testid="stApp"] {
-    background: #ffffff !important;
+div[data-testid="stHorizontalBlock"]
+> div:first-child
+div[data-testid="stVerticalBlock"] {
+
+    align-items: center !important;
+
+    text-align: center !important;
+}
+
+
+/* ==========================================================
+   LOGO
+========================================================== */
+
+div[data-testid="stHorizontalBlock"]
+> div:first-child
+div[data-testid="stImage"]:nth-of-type(2) img {
+
+    width: 180px !important;
+
+    height: 180px !important;
+
+    object-fit: contain !important;
+
+    margin: 25px auto 20px auto !important;
+}
+
+
+/* ==========================================================
+   BRAND TITLE
+========================================================== */
+
+div[data-testid="stHorizontalBlock"]
+> div:first-child
+h3 {
+
+    margin-top: 10px !important;
+
+    margin-bottom: 12px !important;
+
+    font-size: 34px !important;
+
+    font-weight: 700 !important;
+
+    color: #111111 !important;
+
+    text-align: center !important;
+}
+
+
+/* ==========================================================
+   LEFT DESCRIPTION
+========================================================== */
+
+div[data-testid="stHorizontalBlock"]
+> div:first-child
+p {
+
+    font-size: 16px !important;
+
+    line-height: 1.8 !important;
+
+    color: #ffffff !important;
+
+    text-align: center !important;
+}
+
+
+/* ==========================================================
+   RIGHT COLUMN
+========================================================== */
+
+div[data-testid="stHorizontalBlock"]
+> div:last-child {
+
+    padding: 0 7% !important;
+
+    margin: 0 !important;
+
+    display: flex !important;
+
+    align-items: center !important;
+}
+
+
+/* ==========================================================
+   RIGHT CONTENT WIDTH
+========================================================== */
+
+div[data-testid="stHorizontalBlock"]
+> div:last-child
+div[data-testid="stVerticalBlock"] {
+
+    width: 100% !important;
+
+    max-width: 620px !important;
+
+    margin: 0 auto !important;
+}
+
+
+/* ==========================================================
+   RIGHT HEADING
+========================================================== */
+
+div[data-testid="stHorizontalBlock"]
+> div:last-child
+h1 {
+
+    font-size: 48px !important;
+
+    font-weight: 700 !important;
+
+    color: #111111 !important;
+
+    margin-bottom: 10px !important;
+}
+
+
+/* ==========================================================
+   RIGHT SUBTITLE
+========================================================== */
+
+div[data-testid="stHorizontalBlock"]
+> div:last-child
+p {
+
+    color: rgba(0, 0, 0, 0.60) !important;
 }
