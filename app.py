@@ -158,11 +158,9 @@ with left_column:
 
 with right_column:
 
-    st.header("Welcome Back!")
+    st.title("Welcome Back!")
 
-    st.write(
-        "Sign in to continue"
-    )
+    st.write("Sign in to continue")
 
     st.write("")
 
