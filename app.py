@@ -25,6 +25,21 @@ LOGO_PATH = BASE_DIR / "assets" / "medinsight_logo.png"
 
 
 # ==========================================================
+# LOAD LOGIN CSS
+# ==========================================================
+
+CSS_PATH = BASE_DIR / "css" / "login.css"
+
+with open(CSS_PATH, "r", encoding="utf-8") as css_file:
+    login_css = css_file.read()
+
+st.markdown(
+    f"<style>{login_css}</style>",
+    unsafe_allow_html=True
+)
+
+
+# ==========================================================
 # SESSION STATE
 # ==========================================================
 

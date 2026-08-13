@@ -1,0 +1,170 @@
+/* ==========================================================
+   MEDIINSIGHT AI
+   LOGIN PAGE — GLOBAL FOUNDATION
+========================================================== */
+
+
+/* ==========================================================
+   ROOT
+========================================================== */
+
+html,
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+
+    width: 100% !important;
+    height: 100% !important;
+
+    overflow: hidden !important;
+}
+
+
+/* ==========================================================
+   STREAMLIT APP
+========================================================== */
+
+[data-testid="stApp"] {
+    width: 100vw !important;
+    height: 100vh !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+
+    overflow: hidden !important;
+}
+
+
+/* ==========================================================
+   STREAMLIT APP VIEW
+========================================================== */
+
+[data-testid="stAppViewContainer"] {
+    width: 100vw !important;
+    height: 100vh !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+
+    overflow: hidden !important;
+}
+
+
+/* ==========================================================
+   MAIN CONTENT
+========================================================== */
+
+[data-testid="stAppViewContainer"] > section {
+    width: 100% !important;
+    height: 100% !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+
+    overflow: hidden !important;
+}
+
+
+/* ==========================================================
+   BLOCK CONTAINER
+========================================================== */
+
+.block-container {
+    width: 100% !important;
+    max-width: none !important;
+
+    height: 100vh !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+
+/* ==========================================================
+   MAIN SECTION
+========================================================== */
+
+section.main {
+    width: 100% !important;
+    height: 100vh !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+
+/* ==========================================================
+   MAIN INNER WRAPPER
+========================================================== */
+
+section.main > div {
+    width: 100% !important;
+    height: 100% !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+
+/* ==========================================================
+   STREAMLIT VERTICAL BLOCK
+========================================================== */
+
+div[data-testid="stVerticalBlock"] {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+
+/* ==========================================================
+   HIDE STREAMLIT UI
+========================================================== */
+
+#MainMenu {
+    visibility: hidden !important;
+}
+
+header {
+    visibility: hidden !important;
+}
+
+footer {
+    visibility: hidden !important;
+}
+
+
+/* ==========================================================
+   REMOVE TOP DECORATION
+========================================================== */
+
+[data-testid="stDecoration"] {
+    display: none !important;
+}
+
+
+/* ==========================================================
+   REMOVE EMPTY STREAMLIT SPACING
+========================================================== */
+
+div[data-testid="stVerticalBlockBorderWrapper"] {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+
+/* ==========================================================
+   BODY BACKGROUND
+========================================================== */
+
+body {
+    background: #ffffff !important;
+}
+
+
+/* ==========================================================
+   STREAMLIT APP BACKGROUND
+========================================================== */
+
+[data-testid="stApp"] {
+    background: #ffffff !important;
+}
