@@ -25,28 +25,14 @@ LOGO_PATH = BASE_DIR / "assets" / "medinsight_logo.png"
 
 
 # ==========================================================
-# CHECK ASSETS
-# ==========================================================
-
-if not BACKGROUND_PATH.exists():
-    st.error(
-        f"Background image not found:\n{BACKGROUND_PATH}"
-    )
-    st.stop()
-
-if not LOGO_PATH.exists():
-    st.error(
-        f"Logo image not found:\n{LOGO_PATH}"
-    )
-    st.stop()
-
-
-# ==========================================================
 # SESSION STATE
 # ==========================================================
 
 if "logged_in" not in st.session_state:
     st.session_state.logged_in = False
+
+if "username" not in st.session_state:
+    st.session_state.username = ""
 
 
 # ==========================================================
@@ -55,18 +41,16 @@ if "logged_in" not in st.session_state:
 
 if not st.session_state.logged_in:
 
-    # ------------------------------------------------------
-    # PAGE TITLE
-    # ------------------------------------------------------
-
     st.title("MediInsight AI")
 
-    st.write("Welcome to MediInsight AI")
+    st.write(
+        "Emergency Analytics & Medical Report Analyzer"
+    )
 
     st.divider()
 
     # ------------------------------------------------------
-    # TWO COLUMN LAYOUT
+    # TWO-COLUMN LAYOUT
     # ------------------------------------------------------
 
     left_column, right_column = st.columns(
@@ -132,17 +116,19 @@ if not st.session_state.logged_in:
         )
 
         # --------------------------------------------------
-        # LOGIN ACTION
+        # LOGIN VALIDATION
         # --------------------------------------------------
 
         if sign_in:
 
             if not username.strip():
+
                 st.warning(
                     "Please enter your username or email."
                 )
 
             elif not password.strip():
+
                 st.warning(
                     "Please enter your password."
                 )
@@ -165,7 +151,7 @@ if not st.session_state.logged_in:
 
 
 # ==========================================================
-# DASHBOARD PLACEHOLDER
+# TEMPORARY DASHBOARD
 # ==========================================================
 
 else:
@@ -173,15 +159,20 @@ else:
     st.title("MediInsight AI Dashboard")
 
     st.success(
-        "You are successfully logged in."
+        "Login successful."
     )
 
     st.write(
-        f"Welcome, {st.session_state.get('username', 'Doctor')}!"
+        f"Welcome, {st.session_state.username}!"
+    )
+
+    st.write(
+        "The dashboard will be built in the next phase."
     )
 
     if st.button("Logout"):
 
         st.session_state.logged_in = False
+        st.session_state.username = ""
 
         st.rerun()
