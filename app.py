@@ -25,21 +25,6 @@ LOGO_PATH = BASE_DIR / "assets" / "medinsight_logo.png"
 
 
 # ==========================================================
-# LOAD LOGIN CSS
-# ==========================================================
-
-CSS_PATH = BASE_DIR / "css" / "login.css"
-
-with open(CSS_PATH, "r", encoding="utf-8") as css_file:
-    login_css = css_file.read()
-
-st.markdown(
-    f"<style>{login_css}</style>",
-    unsafe_allow_html=True
-)
-
-
-# ==========================================================
 # SESSION STATE
 # ==========================================================
 
@@ -51,131 +36,29 @@ if "username" not in st.session_state:
 
 
 # ==========================================================
-# LOGIN PAGE
+# LOAD CSS
 # ==========================================================
 
-if not st.session_state.logged_in:
+CSS_PATH = BASE_DIR / "css" / "login.css"
 
-    st.title("MediInsight AI")
+with open(CSS_PATH, "r", encoding="utf-8") as css_file:
+    login_css = css_file.read()
 
-    st.write(
-        "Emergency Analytics & Medical Report Analyzer"
-    )
-
-    st.divider()
-
-    # ------------------------------------------------------
-    # TWO-COLUMN LAYOUT
-    # ------------------------------------------------------
-
-    left_column, right_column = st.columns(
-        [1, 1.5],
-        gap="large"
-    )
-
-    # ======================================================
-    # LEFT COLUMN
-    # ======================================================
-
-    with left_column:
-
-        st.image(
-            BACKGROUND_PATH,
-            use_container_width=True
-        )
-
-        st.image(
-            LOGO_PATH,
-            width=180
-        )
-
-        st.subheader("MediInsight AI")
-
-        st.write(
-            "Emergency Analytics & "
-            "Medical Report Analyzer"
-        )
-
-    # ======================================================
-    # RIGHT COLUMN
-    # ======================================================
-
-    with right_column:
-
-        st.header("Welcome Back!")
-
-        st.write("Sign in to continue")
-
-        st.write("")
-
-        username = st.text_input(
-            "Email or Username",
-            placeholder="Email or Username"
-        )
-
-        password = st.text_input(
-            "Password",
-            placeholder="Password",
-            type="password"
-        )
-
-        remember_me = st.checkbox(
-            "Remember me"
-        )
-
-        st.write("")
-
-        sign_in = st.button(
-            "Sign In",
-            use_container_width=True
-        )
-
-        # --------------------------------------------------
-        # LOGIN VALIDATION
-        # --------------------------------------------------
-
-        if sign_in:
-
-            if not username.strip():
-
-                st.warning(
-                    "Please enter your username or email."
-                )
-
-            elif not password.strip():
-
-                st.warning(
-                    "Please enter your password."
-                )
-
-            elif (
-                username == "doctor"
-                and password == "1234"
-            ):
-
-                st.session_state.logged_in = True
-                st.session_state.username = username
-
-                st.rerun()
-
-            else:
-
-                st.error(
-                    "Invalid username or password."
-                )
+st.markdown(
+    f"<style>{login_css}</style>",
+    unsafe_allow_html=True,
+)
 
 
 # ==========================================================
-# TEMPORARY DASHBOARD
+# DASHBOARD
 # ==========================================================
 
-else:
+if st.session_state.logged_in:
 
     st.title("MediInsight AI Dashboard")
 
-    st.success(
-        "Login successful."
-    )
+    st.success("Login successful.")
 
     st.write(
         f"Welcome, {st.session_state.username}!"
@@ -191,3 +74,111 @@ else:
         st.session_state.username = ""
 
         st.rerun()
+
+    st.stop()
+
+
+# ==========================================================
+# LOGIN PAGE
+# ==========================================================
+
+left_column, right_column = st.columns(
+    [1, 1.5],
+    gap="large",
+)
+
+
+# ==========================================================
+# LEFT SIDE
+# ==========================================================
+
+with left_column:
+
+    st.image(
+        BACKGROUND_PATH,
+        use_container_width=True,
+    )
+
+    st.image(
+        LOGO_PATH,
+        width=180,
+    )
+
+    st.subheader("MediInsight AI")
+
+    st.write(
+        "Emergency Analytics & "
+        "Medical Report Analyzer"
+    )
+
+
+# ==========================================================
+# RIGHT SIDE
+# ==========================================================
+
+with right_column:
+
+    st.header("Welcome Back!")
+
+    st.write(
+        "Sign in to continue"
+    )
+
+    st.write("")
+
+    username = st.text_input(
+        "Email or Username",
+        placeholder="Email or Username",
+    )
+
+    password = st.text_input(
+        "Password",
+        placeholder="Password",
+        type="password",
+    )
+
+    remember_me = st.checkbox(
+        "Remember me"
+    )
+
+    st.write("")
+
+    sign_in = st.button(
+        "Sign In",
+        use_container_width=True,
+    )
+
+
+    # ======================================================
+    # LOGIN VALIDATION
+    # ======================================================
+
+    if sign_in:
+
+        if not username.strip():
+
+            st.warning(
+                "Please enter your username or email."
+            )
+
+        elif not password.strip():
+
+            st.warning(
+                "Please enter your password."
+            )
+
+        elif (
+            username == "doctor"
+            and password == "1234"
+        ):
+
+            st.session_state.logged_in = True
+            st.session_state.username = username
+
+            st.rerun()
+
+        else:
+
+            st.error(
+                "Invalid username or password."
+            )
