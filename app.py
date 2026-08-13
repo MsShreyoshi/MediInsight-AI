@@ -1,5 +1,6 @@
 import streamlit as st
 from pathlib import Path
+import base64
 
 
 # ==========================================================
@@ -25,6 +26,17 @@ LOGO_PATH = BASE_DIR / "assets" / "medinsight_logo.png"
 
 
 # ==========================================================
+# LOAD BACKGROUND IMAGE
+# ==========================================================
+
+with open(BACKGROUND_PATH, "rb") as image_file:
+
+    background_base64 = base64.b64encode(
+        image_file.read()
+    ).decode()
+
+
+# ==========================================================
 # SESSION STATE
 # ==========================================================
 
@@ -41,8 +53,20 @@ if "username" not in st.session_state:
 
 CSS_PATH = BASE_DIR / "css" / "login.css"
 
-with open(CSS_PATH, "r", encoding="utf-8") as css_file:
+with open(
+    CSS_PATH,
+    "r",
+    encoding="utf-8"
+) as css_file:
+
     login_css = css_file.read()
+
+
+login_css = login_css.replace(
+    "REPLACE_BACKGROUND",
+    background_base64
+)
+
 
 st.markdown(
     f"<style>{login_css}</style>",
@@ -83,7 +107,7 @@ if st.session_state.logged_in:
 # ==========================================================
 
 left_column, right_column = st.columns(
-    [1, 1.5],
+    [2, 4],
     gap="large",
 )
 
@@ -94,21 +118,37 @@ left_column, right_column = st.columns(
 
 with left_column:
 
-    st.image(
-        BACKGROUND_PATH,
-        use_container_width=True,
-    )
+    st.markdown(
+        """
+        <div class="branding-panel">
 
-    st.image(
-        LOGO_PATH,
-        width=180,
-    )
+        <div class="branding-content">
 
-    st.subheader("MediInsight AI")
+        <img src="data:image/png;base64,REPLACE_LOGO" class="branding-logo">
 
-    st.write(
-        "Emergency Analytics & "
-        "Medical Report Analyzer"
+        <div class="branding-title">
+        <span class="branding-black"> MediInsight </span>
+        <span class="branding-red"> AI </span>
+        </div>
+
+        <div class="branding-tagline">
+        Emergency Analytics
+        <br>
+        &
+        <br>
+        Medical Report Analyzer
+        </div>
+
+        </div>
+
+        </div>
+        """.replace(
+            "REPLACE_LOGO",
+            base64.b64encode(
+                LOGO_PATH.read_bytes()
+            ).decode()
+        ),
+        unsafe_allow_html=True
     )
 
 
