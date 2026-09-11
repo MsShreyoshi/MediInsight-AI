@@ -1,0 +1,601 @@
+label,report_text
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 10.0 g/dL. WBC 12.8 x10^9/L. Creatinine 1.6 mg/dL. Glucose 165 mg/dL. Abnormal findings should be reviewed.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Hemoglobin 8.7 g/dL with fatigue. WBC 14.1 x10^9/L. Creatinine 2.0 mg/dL. Glucose 210 mg/dL. Results require clinician review.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+routine,Complete blood count reviewed. Hemoglobin 14.2 g/dL. WBC 6.8 x10^9/L. Platelets 245 x10^9/L. Creatinine 0.9 mg/dL. Glucose 96 mg/dL. No acute abnormality noted.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.
+routine,"CBC: hemoglobin 13.6 g/dL, WBC 7.2 x10^9/L, platelets 278 x10^9/L. Creatinine 0.8 mg/dL. Glucose 101 mg/dL. Clinical correlation advised."
+routine,Hemoglobin 15.0 g/dL. WBC 5.9 x10^9/L. Platelets 230 x10^9/L. Creatinine 0.95 mg/dL. Glucose 92 mg/dL. No significant abnormality detected.
+attention,Laboratory report shows hemoglobin 9.1 g/dL. WBC 13.4 x10^9/L. Platelets 180 x10^9/L. Creatinine 1.8 mg/dL. Glucose 178 mg/dL. Follow-up is recommended.

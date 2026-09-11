@@ -1,154 +1,100 @@
 /* ==========================================================
-   MEDIINSIGHT AI — LOGIN PAGE
-   PHASE 3: LEFT PANEL STYLING
+   MEDINSIGHT AI - LOGIN PAGE
 ========================================================== */
 
 
 /* ==========================================================
-   GLOBAL RESET
+   STREAMLIT OUTER PAGE
 ========================================================== */
 
 html,
 body {
     margin: 0 !important;
     padding: 0 !important;
-
-    width: 100% !important;
-    height: 100% !important;
-
-    font-family: Arial, sans-serif !important;
-
-    background: #ffffff !important;
+    overflow: hidden !important;
 }
-
-
-/* ==========================================================
-   STREAMLIT APP
-========================================================== */
-
-[data-testid="stApp"] {
-    width: 100vw !important;
-    min-height: 100vh !important;
-
-    background: #ffffff !important;
-}
-
-
-/* ==========================================================
-   STREAMLIT MAIN CONTAINER
-========================================================== */
 
 [data-testid="stAppViewContainer"] {
-    background: #ffffff !important;
+    height: 100vh !important;
+    min-height: 100vh !important;
+    overflow: hidden !important;
+}
+
+[data-testid="stAppViewContainer"] > .main {
+    height: 100vh !important;
+    min-height: 100vh !important;
+    overflow: hidden !important;
+}
+
+[data-testid="stMain"] {
+    height: 100vh !important;
+    min-height: 100vh !important;
+    overflow: hidden !important;
+}
+
+section.main {
+    overflow: hidden !important;
+}
+
+.stApp {
+    height: 100vh !important;
+    min-height: 100vh !important;
+    overflow: hidden !important;
 }
 
 
 /* ==========================================================
-   REMOVE DEFAULT STREAMLIT PADDING
+   STREAMLIT CONTENT SPACING
 ========================================================== */
 
-.block-container {
-    max-width: none !important;
-
+[data-testid="stMainBlockContainer"] {
     padding-top: 0 !important;
     padding-bottom: 0 !important;
     padding-left: 0 !important;
     padding-right: 0 !important;
 }
 
-
-/* ==========================================================
-   REMOVE STREAMLIT UI
-========================================================== */
-
-#MainMenu {
-    visibility: hidden !important;
-}
-
-header {
-    visibility: hidden !important;
-}
-
-footer {
-    visibility: hidden !important;
-}
-
-
-/* ==========================================================
-   COLUMN CONTAINER
-========================================================== */
-
-div[data-testid="stHorizontalBlock"] {
-
+[data-testid="stVerticalBlock"] {
     gap: 0 !important;
-
-    align-items: stretch !important;
-
-    width: 100% !important;
 }
 
 
 /* ==========================================================
-   PHASE 4 — FIGMA BRANDING PANEL
+   DESIGN CANVAS
+========================================================== */
+
+.mediinsight-canvas {
+    width: 1440px;
+    height: 900px;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 20px;
+    overflow: hidden;
+    background: #FFFFFF;
+    border-radius: 30px;
+    font-family: Inter, Arial, sans-serif;
+}
+
+
+/* ==========================================================
+   LEFT BRANDING PANEL
 ========================================================== */
 
 .branding-panel {
-
-    width: 100%;
-    height: 98vh;
-
-    min-height: 600px;
-
-    position: relative;
-
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 440px;
+    height: 900px;
     overflow: hidden;
-
-    display: flex;
-
-    align-items: center;
-
-    justify-content: center;
-
-    text-align: center;
-
-    border-radius: 0 30px 30px 0;
-
+    border-radius: 30px 0 0 30px;
     background-image:
         linear-gradient(
-            rgba(37, 99, 235, 0.72),
-            rgba(37, 99, 235, 0.72)
+            rgba(37, 99, 235, 0.70)
         ),
-        url("data:image/png;base64,REPLACE_BACKGROUND");
-
+        url("{{BACKGROUND_IMAGE}}");
     background-size: cover;
-
     background-position: right;
-}
-
-
-/* ==========================================================
-   BRANDING CONTENT
-========================================================== */
-
-.branding-content {
-
-    display: flex;
-
-    flex-direction: column;
-
-    align-items: center;
-
-    justify-content: center;
-
-    width: 100%;
-
-    height: 100%;
-
-    padding: 40px;
-
-    position: relative;
-
-    z-index: 2;
 }
 
 
@@ -157,14 +103,11 @@ div[data-testid="stHorizontalBlock"] {
 ========================================================== */
 
 .branding-logo {
-
-    width: 180px;
-
-    height: 180px;
-
-    object-fit: contain;
-
-    margin-bottom: 25px;
+    position: absolute;
+    width: 200px;
+    height: auto;
+    left: 125px;
+    top: 50px;
 }
 
 
@@ -173,26 +116,24 @@ div[data-testid="stHorizontalBlock"] {
 ========================================================== */
 
 .branding-title {
-
+    position: absolute;
+    left: 84px;
+    top: 300px;
+    width: 275px;
+    text-align: center;
+    white-space: nowrap;
     font-size: 40px;
-
-    line-height: 1.2;
-
-    font-weight: 700;
-
-    margin-bottom: 20px;
+    line-height: 1;
 }
-
 
 .branding-black {
-
-    color: #111111;
+    color: #000000;
+    font-weight: 700;
 }
 
-
 .branding-red {
-
-    color: #ff3131;
+    color: #FF0000;
+    font-weight: 500;
 }
 
 
@@ -201,77 +142,286 @@ div[data-testid="stHorizontalBlock"] {
 ========================================================== */
 
 .branding-tagline {
-
-    color: #ffffff;
-
-    font-size: 17px;
-
-    line-height: 30px;
-
-    font-weight: 400;
-
+    position: absolute;
+    left: 133px;
+    top: 350px;
+    width: 175px;
     text-align: center;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
 }
 
 
 /* ==========================================================
-   RIGHT COLUMN
+   RIGHT SIDE
 ========================================================== */
 
-div[data-testid="stHorizontalBlock"]
-> div:last-child {
-
-    padding: 100px !important;
-
-    margin: 0 !important;
-
-    display: flex !important;
-
-    align-items: center !important;
+.login-content {
+    position: absolute;
+    left: 510px;
+    top: 135px;
+    width: 550px;
 }
 
 
 /* ==========================================================
-   RIGHT CONTENT WIDTH
+   TITLE
 ========================================================== */
 
-div[data-testid="stHorizontalBlock"]
-> div:last-child
-div[data-testid="stVerticalBlock"] {
-
-    width: 100% !important;
-
-    max-width: 800px !important;
-
-    margin: 0 !important;
+.login-title {
+    color: #000000;
+    font-size: 48px;
+    line-height: 58px;
+    font-weight: 700;
+    text-align: left;
 }
 
 
 /* ==========================================================
-   RIGHT HEADING
+   SUBTITLE
 ========================================================== */
 
-div[data-testid="stHorizontalBlock"]
-> div:last-child
-h1 {
-
-    font-size: 48px !important;
-
-    font-weight: 700 !important;
-
-    color: #111111 !important;
-
-    margin-bottom: 10px !important;
+.login-subtitle {
+    margin-top: 2px;
+    color: rgba(0, 0, 0, 0.60);
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
 }
 
 
 /* ==========================================================
-   RIGHT SUBTITLE
+   FORM AREA
 ========================================================== */
 
-div[data-testid="stHorizontalBlock"]
-> div:last-child
-p {
+.form-area {
+    margin-top: 59px;
+    width: 550px;
+}
 
+.username-placeholder,
+.password-placeholder {
+    width: 550px;
+    height: 50px;
+    visibility: hidden;
+}
+
+.password-placeholder {
+    margin-top: 20px;
+}
+
+
+/* ==========================================================
+   REAL STREAMLIT USERNAME INPUT
+========================================================== */
+
+div[data-testid="stTextInput"]:has(input[aria-label="Username"]) {
+    position: relative !important;
+    top: -650px !important;
+    width: 550px !important;
+    margin-left: 750px !important;
+    margin-top: 10px !important;
+    margin-bottom: -623px !important;
+    padding: 0 !important;
+    z-index: 1000 !important;
+}
+
+div[data-testid="stTextInput"]:has(input[aria-label="Username"]) > label {
+    display: none !important;
+}
+
+div[data-testid="stTextInput"]:has(input[aria-label="Username"]) input {
+    width: 550px !important;
+    height: 50px !important;
+    box-sizing: border-box !important;
+    border: 1px solid #727272 !important;
+    border-radius: 10px !important;
+    padding: 0 15px !important;
+    background: #FFFFFF !important;
     color: rgba(0, 0, 0, 0.60) !important;
+    font-family: Inter, Arial, sans-serif !important;
+    font-size: 16px !important;
+}
+
+div[data-testid="stTextInput"]:has(input[aria-label="Username"]) input::placeholder {
+    color: rgba(0, 0, 0, 0.60) !important;
+    opacity: 1 !important;
+}
+
+
+/* ==========================================================
+   REAL STREAMLIT PASSWORD INPUT
+========================================================== */
+
+div[data-testid="stTextInput"]:has(input[aria-label="Password"]) {
+    position: relative !important;
+    top: -600px !important;
+    width: 550px !important;
+    margin-left: 750px !important;
+    margin-top: 10px !important;
+    margin-bottom: -623px !important;
+    padding: 0 !important;
+    z-index: 1000 !important;
+}
+
+div[data-testid="stTextInput"]:has(input[aria-label="Password"]) > label {
+    display: none !important;
+}
+
+div[data-testid="stTextInput"]:has(input[aria-label="Password"]) input {
+    width: 550px !important;
+    height: 50px !important;
+    box-sizing: border-box !important;
+    border: 1px solid #727272 !important;
+    border-radius: 10px !important;
+    padding: 0 15px !important;
+    background: #FFFFFF !important;
+    color: rgba(0, 0, 0, 0.60) !important;
+    font-family: Inter, Arial, sans-serif !important;
+    font-size: 16px !important;
+}
+
+div[data-testid="stTextInput"]:has(input[aria-label="Password"]) input::placeholder {
+    color: rgba(0, 0, 0, 0.60) !important;
+    opacity: 1 !important;
+}
+
+
+/* ==========================================================
+   INPUT MOCKUP
+========================================================== */
+
+.input-box {
+    width: 550px;
+    height: 50px;
+    border: 1px solid #727272;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    color: rgba(0, 0, 0, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    background: #FFFFFF;
+}
+
+.input-box + .input-box {
+    margin-top: 20px;
+}
+
+
+/* ==========================================================
+   REAL STREAMLIT REMEMBER ME CHECKBOX
+========================================================== */
+
+div[data-testid="stCheckbox"] {
+    position: relative !important;
+    width: 550px !important;
+    height: 20px !important;
+    margin-left: 750px !important;
+    margin-top: 60px !important;
+    margin-bottom: -50px !important;
+    transform: translateY(-603px) !important;
+    z-index: 1000 !important;
+}
+
+div[data-testid="stCheckbox"] input[type="checkbox"] {
+    appearance: none !important;
+    -webkit-appearance: none !important;
+    width: 20px !important;
+    height: 20px !important;
+    min-width: 20px !important;
+    min-height: 20px !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 1px solid #000000 !important;
+    border-radius: 50% !important;
+    background: #FFFFFF !important;
+    cursor: pointer !important;
+    position: relative !important;
+    vertical-align: middle !important;
+}
+
+div[data-testid="stCheckbox"] input[type="checkbox"]:checked {
+    background: #2563EB !important;
+    border-color: #2563EB !important;
+}
+
+div[data-testid="stCheckbox"] input[type="checkbox"]:checked::after {
+    content: "✓";
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -55%);
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+div[data-testid="stCheckbox"] label {
+    display: flex !important;
+    align-items: center !important;
+    gap: 8px !important;
+    width: max-content !important;
+    height: 20px !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    color: #000000 !important;
+    font-family: Inter, Arial, sans-serif !important;
+    font-size: 15px !important;
+    font-weight: 600 !important;
+    cursor: pointer !important;
+}
+
+div[data-testid="stCheckbox"] > div {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+
+/* ==========================================================
+   REAL STREAMLIT LOGIN BUTTON
+========================================================== */
+
+div[data-testid="stButton"]:has(button) {
+    position: relative !important;
+    top: -660px !important;
+    width: 400px !important;
+    margin-left: 750px !important;
+    margin-top: 150px !important;
+    margin-bottom: -623px !important;
+    padding: 0 !important;
+    z-index: 1000 !important;
+}
+
+div[data-testid="stButton"]:has(button) button {
+    width: 550px !important;
+    height: 60px !important;
+    border: none !important;
+    border-radius: 10px !important;
+    background: #2563EB !important;
+    color: #FFFFFF !important;
+    font-family: Inter, Arial, sans-serif !important;
+    font-size: 24px !important;
+    font-weight: 600 !important;
+    cursor: pointer !important;
+}
+
+div[data-testid="stButton"]:has(button) button p {
+    color: #FFFFFF !important;
+    font-family: Inter, Arial, sans-serif !important;
+    font-size: 20px !important;
+    font-weight: 600 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+div[data-testid="stButton"]:has(button) button:hover {
+    background: #1D4ED8 !important;
+}
+
+div[data-testid="stButton"]:has(button) button:active {
+    transform: translateY(1px);
 }
